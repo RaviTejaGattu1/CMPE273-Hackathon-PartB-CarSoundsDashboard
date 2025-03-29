@@ -4,7 +4,7 @@ A real-time interactive dashboard for anomalous sound detection in machine condi
 
 ---
 
-## 👥 Team Members
+## 👥 Project Group 7  -  Team Members
 
 | Name               | SJSU ID     |
 |--------------------|-------------|
