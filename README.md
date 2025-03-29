@@ -165,7 +165,7 @@ Results are displayed immediately after upload, with the queue logging them to `
 
 ---
 
-## Why This is the Perfect Solution
+## Features
 
 **Vehicle State Approval** excels in addressing the **Part B CMPE273 Hackathon**:
 
