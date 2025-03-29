@@ -1,7 +1,7 @@
 # CMPE273 Hackathon - Part B
 # Vehicle State Approval: Car Sound Detection System 🚗🔊
 
-A real-time interactive dashboard for anomalous sound detection in machine condition monitoring, built using Python, Streamlit, and RabbitMQ. Designed to analyze motor sounds from seven machine types under domain-shifted conditions.
+A real-time interactive dashboard for anomalous sound detection in machine condition monitoring, built using Python, Streamlit, and RabbitMQ. Designed to analyze car component sounds from multiple types under domain-shifted conditions.
 
 ---
 
