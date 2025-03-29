@@ -75,33 +75,6 @@ DEMO VIDEO : https://drive.google.com/file/d/10oSay9tAHYI2Rn8F5ViO2knnIF2S5C1N/v
 
 This architecture ensures scalability and responsiveness, with immediate feedback and background processing.
 
----
-
-## 📊 Aspects of Output/Data
-
-The project uses the **DCASE 2021 Task 2 dataset**:
-
-- **Car Components**: For the "car" type, sounds include engine, exhaust, and transmission noises (normal and anomalous, e.g., engine misfires).
-- **Data Features**:
-  - 10-second single-channel WAV audio clips.
-  - Includes car sounds and environmental noise (industrial, domestic).
-- **Training**: 
-  - ~1,000 normal clips per machine type (source domain),
-  - Three in the target domain.
-- **Testing**: 
-  - ~100 normal and anomalous clips per machine type (both domains).
-- **Anomalies**: Created by damaging machines (e.g., mechanical faults).
-- **Labels**: 
-  - Machine type, section index, normal/anomaly status, motor speed attributes.
-- **Output Format**:
-  ```json
-  {
-    "file": "uploads/fan_001.wav",
-    "sound": "fan",
-    "status": "normal",
-    "confidence": 0.95
-  }
-  ```
 
 ---
 
