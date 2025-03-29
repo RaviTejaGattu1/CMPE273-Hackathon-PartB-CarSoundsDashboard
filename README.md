@@ -15,6 +15,7 @@ A real-time interactive dashboard for anomalous sound detection in machine condi
 
 ![Car Sound Detection System](https://github.com/user-attachments/assets/f356f212-47dd-493a-bcc3-0a30910bdf44)
 
+DEMO VIDEO : https://drive.google.com/file/d/10oSay9tAHYI2Rn8F5ViO2knnIF2S5C1N/view?usp=sharing
 ---
 
 ## 🔁 Real-Time Queue Integration
@@ -57,6 +58,11 @@ A real-time interactive dashboard for anomalous sound detection in machine condi
 ---
 
 ## 🏗️ Architecture Overview
+
+![ArchitectureDiagram](https://github.com/user-attachments/assets/37447c5c-6bd1-4039-bbec-83a618bb12b5)
+
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/add7bf0a-dfff-42a9-b1d9-2edf71514544" />
+
 
 - **Frontend** (`frontend.py`): Streamlit-based UI with a sci-fi theme, handling file uploads, immediate API calls, and result display.
 - **Backend API** (`api.py`): FastAPI server with a `/predict` endpoint for audio file predictions.
